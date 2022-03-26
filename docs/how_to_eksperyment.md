@@ -34,6 +34,7 @@
 - [librosa+keras](https://www.codespeedy.com/speech-emotion-recognition-in-python/)
 - [keras_cnn](https://towardsdatascience.com/speech-emotion-recognition-using-ravdess-audio-dataset-ce19d162690)
 - [keras_dnn](https://blog.eduonix.com/artificial-intelligence/deep-neural-networks-keras/)
+- [cross_corpus](https://towardsdatascience.com/detecting-emotions-from-voice-clips-f1f7cc5d4827)
 
 ## Przydatne prace naukowe
 
