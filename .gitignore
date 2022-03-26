@@ -1,0 +1,11 @@
+# data files
+data/
+
+# images, plots etc.
+imgs/
+
+# saved models
+models/
+
+# code workspace
+licencjat_eksperyment.code-workspace
