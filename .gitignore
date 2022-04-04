@@ -12,3 +12,6 @@ licencjat_eksperyment.code-workspace
 
 # docs links file
 docs/how_to_eksperyment.md
+
+# jupyter notebook checkpoints
+src/.ipynd_checkpoints
