@@ -14,4 +14,4 @@ licencjat_eksperyment.code-workspace
 docs/how_to_eksperyment.md
 
 # jupyter notebook checkpoints
-src/.ipynd_checkpoints
+src/.ipynb_checkpoints
