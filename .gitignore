@@ -15,3 +15,6 @@ docs/how_to_eksperyment.md
 
 # jupyter notebook checkpoints
 src/.ipynb_checkpoints
+
+# data documentation
+docs/data_docs
